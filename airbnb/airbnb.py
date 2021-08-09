@@ -162,24 +162,3 @@ plt.imshow(image,extent=[-74.25, -73.69, 40.49,40.92])
 plt.scatter(x='longitude',y='latitude',s=5,c='price',data=data_review_q3,cmap='hsv')
 cbar = plt.colorbar()
 cbar.set_label('price')            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-
